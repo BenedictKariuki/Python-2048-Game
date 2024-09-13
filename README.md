@@ -33,5 +33,5 @@ The main game logic is implemented in this class. It includes several key method
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/2048-game.git
+   git clone https://github.com/Prince-B370/Python-2048-Game.git
    cd 2048-game
