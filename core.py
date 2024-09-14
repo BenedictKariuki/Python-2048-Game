@@ -1,3 +1,9 @@
+"""
+    Author: Benedict Kariuki
+    Date: September 14, 2024
+    Version: 1.0
+    Description: This program implements the 2048 Game developed by Gabriele Cirulli in March 2014 using Python.
+"""
 import random
 
 from abc import ABC, abstractmethod
